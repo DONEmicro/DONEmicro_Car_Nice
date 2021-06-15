@@ -7,6 +7,9 @@ close all
 !git add .
 !git commit -m"¸üÐÂ´úÂë"
 
-nice
-done
-qqq
+nice=1;
+done=2;
+
+qqq=3;
+
+
